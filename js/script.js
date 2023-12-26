@@ -6,7 +6,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["Jr. Full-Stack", "Video Editor", "Discord Bot Developer"],
+    strings: ["DevOps Engineer experienced in", "Automation, Infrastructure-as-code, GitOps", "CICD & Container Orchestration"],
     typeSpeed: 60,
     startDelay: 900,
     showCursor: false,
