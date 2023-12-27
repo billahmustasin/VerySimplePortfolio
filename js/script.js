@@ -6,7 +6,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["DevOps Engineer experienced in", "Automation, Infrastructure-as-code, GitOps", "CICD & Container Orchestration"],
+    strings: ["DevOps Engineer experienced in", "Automation, Infrastructure-as-code, GitOps", "CICD and Container Orchestration"],
     typeSpeed: 60,
     startDelay: 900,
     showCursor: false,
